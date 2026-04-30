@@ -6,7 +6,7 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Construyo+sistemas+web+completos;Arquitecturo+bases+de+datos+robustas;Especialista+en+PostgreSQL+%2B+TypeScript;DevOps+con+Google+Cloud+%26+Azure;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Construyo+sistemas+web+completos;Bots+de+WhatsApp+con+IA+integrada;Especialista+en+PostgreSQL+%2B+TypeScript;DevOps+con+Google+Cloud+%26+Azure;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" alt="Typing SVG" />
 </div>
 
 ###
@@ -81,7 +81,8 @@ fortalezas:
   - APIs typesafe end-to-end con TypeScript
   - Seguridad y auditoría en PostgreSQL
   - Despliegue en la nube (GCP · Azure)
-actualmente: Construyendo sistemas escalables
+  - Bots de WhatsApp con IA para negocios
+actualmente: Construyendo sistemas escalables y automatizaciones con IA
 disponible:  Para proyectos freelance y trabajo remoto
 ```
 
@@ -92,6 +93,18 @@ disponible:  Para proyectos freelance y trabajo remoto
 <h2 align="center">Proyectos Destacados</h2>
 
 <table align="center">
+<tr>
+<td width="100%" valign="top" colspan="2">
+
+<h3 align="center"><a href="https://github.com/Nix0010/whatsapp-ai-bot">🤖 WhatsApp AI Bot</a></h3>
+<p align="center"><strong>Bot de WhatsApp con IA para atención al cliente</strong></p>
+<p align="center">Bot completamente funcional que responde mensajes de clientes con IA (Groq + LLaMA 3.3). Configurable para cualquier negocio: barberías, restaurantes, consultorios, tiendas. Memoria de conversación por usuario, comandos rápidos y reconexión automática.</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,ts,sqlite&theme=dark" height="30" />
+</p>
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
