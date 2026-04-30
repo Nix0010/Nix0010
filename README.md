@@ -1,74 +1,115 @@
-# 👋 Hola, soy Leyder Alvarez | NetFlow
-**Desarrollador Web & Especialista en Automatizaciones e IA para Negocios**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tu-perfil-aqui)
-[![Portfolio](https://img.shields.io/badge/Website-NetFlow-black?style=for-the-badge&logo=google-chrome)](https://tu-sitio-web.com)
-[![Email](https://img.shields.io/badge/Email-Contactame-red?style=for-the-badge&logo=gmail)](mailto:tuemail@dominio.com)
-
----
-
-## 🚀 Sobre Mí
-
-Ayudo a empresas y emprendedores a escalar y optimizar sus procesos mediante tecnología a medida. Bajo mi marca **NetFlow**, diseño y desarrollo soluciones tecnológicas que no solo se ven bien, sino que resuelven problemas de negocio reales, ahorran tiempo y aumentan las ventas.
-
-- 💻 **Desarrollo Web Profesional**: Sitios corporativos, Landing Pages y E-commerce con un diseño moderno, rápido y enfocado en la conversión (SEO & Performance).
-- 🤖 **Automatizaciones & Chatbots**: Diseño de flujos en WhatsApp para atención al cliente 24/7 y embudos de ventas automáticos.
-- ⚙️ **Software a Medida y Bases de Datos**: Arquitectura de bases de datos robustas (PostgreSQL, PL/pgSQL) y sistemas de gestión interna.
-- 🧠 **IA Aplicada a Negocios**: Implementación de agentes de Inteligencia Artificial para servicio al cliente y optimización de procesos.
-
----
-
-## 🛠️ Stack Tecnológico y Herramientas
-
-### Bases de Datos & Backend (Core)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Desarrollo Web & App
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Automatizaciones & IA
-![WhatsApp API](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
-![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=Make&logoColor=white)
-
----
-
-## 📂 Proyectos Destacados
-
-### 1. [Sistema de Gestión - Mi Negocio Familiar](https://github.com/Nix0010/mi-negocio-familiar) 📊
-> **Stack:** PostgreSQL, Diseño de Bases de Datos.
-> *Sistema de base de datos relacional robusto diseñado específicamente para gestionar la logística, inventario y operaciones de un negocio familiar, optimizando la consulta de datos.*
-
-### 2. [Sistema de Gestión Académica](https://github.com/Nix0010/BaseDeDatos) 🎓
-> **Stack:** Bases de Datos SQL, PL/pgSQL.
-> *Plataforma de backend para automatizar tareas, horarios, calificaciones y recordatorios. Implementación de seguridad y procedimientos almacenados (Stored Procedures).*
-
-### 3. [Chatbot de Ventas con IA - NetFlow] 🤖 *(Próximamente)*
-> **Stack:** Node.js, WhatsApp Cloud API, OpenAI.
-> *Asistente virtual capaz de atender cotizaciones y preguntas frecuentes en tiempo real, reduciendo la carga operativa del equipo de ventas.*
-
-### 4. [Plataforma Web Comercial] 💻 *(Próximamente)*
-> **Stack:** Next.js, Tailwind CSS.
-> *Aplicación web moderna y rápida enfocada en alta conversión de leads.*
-
----
-
-## 📈 Estadísticas de GitHub
-
 <div align="center">
-  <img src="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme/readme_es.md" alt="GitHub Stats" onerror="this.src='https://github-readme-stats.vercel.app/api?username=Nix0010&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117'"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nix0010&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+# Leyder Alvarez
+
+**Desarrollador Full-Stack · Bases de Datos · Software a Medida**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Nix0010-181717?style=for-the-badge&logo=github)](https://github.com/Nix0010)
+[![Email](https://img.shields.io/badge/Contacto-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@dominio.com)
+
 </div>
 
 ---
 
-## 📫 ¿Tienes un proyecto en mente?
+## Sobre mí
 
-Si buscas digitalizar tu negocio, optimizar procesos manuales o crear una presencia web impactante:
-- 📧 Escríbeme a: [tuemail@dominio.com](mailto:tuemail@dominio.com)
-- 📅 [Agenda una reunión de consultoría](LINK_A_TU_CALENDLY)
-- 🌐 Visita mi web oficial: [NetFlow](TU_LINK_WEB)
+Desarrollador de software enfocado en construir sistemas web completos y bases de datos robustas. Trabajo con TypeScript, React, Node.js y PostgreSQL para crear soluciones funcionales, desde plataformas full-stack hasta modelos de datos complejos con seguridad y auditoría.
+
+Mi experiencia abarca todo el ciclo: diseño de arquitectura, modelado de datos, desarrollo frontend/backend y despliegue.
+
+---
+
+## Stack Tecnológico
+
+<div align="center">
+
+**Lenguajes & Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+
+**Bases de Datos**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+
+**DevOps & Herramientas**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+</div>
+
+---
+
+## Proyectos Destacados
+
+### ⚡ [ARMRANK — Sistema de Gestión de Torneos](https://github.com/Nix0010/Proyecto-U-ARMRANK)
+Plataforma web **full-stack** para gestionar torneos deportivos: participantes, categorías, brackets, rankings y resultados en tiempo real.
+
+| | |
+|---|---|
+| **Frontend** | React 19, Vite, TypeScript, Tailwind CSS, Zustand, Zod |
+| **Backend** | Express, Prisma ORM, JWT, Google OAuth |
+| **Base de datos** | PostgreSQL |
+| **Funcionalidades** | Brackets (eliminación simple/doble, round robin), avance automático de ganadores, ranking, exportación a PDF, panel admin con roles |
+
+---
+
+### 🏋️ [ARMPRO — Plataforma de Entrenamiento](https://github.com/Nix0010/ARMPRO-F)
+Aplicación full-stack para entrenamiento deportivo con módulos de rutinas, progreso, gamificación y base para asistencia con IA.
+
+| | |
+|---|---|
+| **Frontend** | React, Vite, TypeScript |
+| **Backend** | Node.js, Express, tRPC |
+| **Base de datos** | MySQL, Drizzle ORM |
+| **Funcionalidades** | Rutinas personalizadas, gamificación con logros, marketplace de contenido, autenticación JWT, API tipada end-to-end |
+
+---
+
+### 🔒 [Seguridad en Bases de Datos Corporativas](https://github.com/Nix0010/ejercicio_ImplementacionSeguridad_BD)
+Implementación completa de seguridad, control de acceso y auditoría sobre PostgreSQL para una base de datos empresarial.
+
+| | |
+|---|---|
+| **Tecnología** | PostgreSQL, PL/pgSQL |
+| **Alcance** | Roles con mínimo privilegio, vistas seguras para datos sensibles (PII), triggers de auditoría con JSONB, esquema de backup/PITR |
+
+---
+
+### 📊 [Sistema de Gestión Académica](https://github.com/Nix0010/BaseDeDatos)
+Modelo de datos para gestionar estudiantes, tareas, horarios, calificaciones y recordatorios. Incluye scripts SQL, documentación y diagramas.
+
+---
+
+### 🛍️ [Mi Negocio Familiar — BD Comercial](https://github.com/Nix0010/mi-negocio-familiar)
+Base de datos relacional para una boutique: gestión de clientes, empleados, productos, pedidos y pagos. 6 tablas interconectadas con +8 FKs, consultas complejas con JOINs y reportes de ventas.
+
+---
+
+## Estadísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nix0010&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nix0010&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="170"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>Abierto a oportunidades de desarrollo web, sistemas a medida y consultoría técnica.</sub>
+</div>
