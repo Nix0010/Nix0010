@@ -1,87 +1,131 @@
+<h1 align="center">Hey 👋 I'm Leyder Alvarez</h1>
+<h3 align="center">Full-Stack Developer · Database Architect · Custom Software</h3>
+
+###
+
+<p align="center">
+  <em>Construyo sistemas web completos y arquitecturas de datos robustas.<br/>Desde interfaces con React hasta backends con Node.js y PostgreSQL.</em>
+</p>
+
+###
+
 <div align="center">
-
-# Leyder Alvarez
-
-**Full-Stack Developer · Database Architect · Custom Software**
-
-&nbsp;
-
-[![GitHub](https://img.shields.io/badge/-Nix0010-181717?style=flat-square&logo=github)](https://github.com/Nix0010)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/-Contacto-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tuemail@dominio.com)
-
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
 </div>
 
-&nbsp;
+###
 
-Desarrollo sistemas web completos y arquitecturas de bases de datos. Mi trabajo va desde interfaces modernas con React y TypeScript hasta backends robustos con Node.js, APIs tipadas y modelos relacionales con seguridad y auditoría sobre PostgreSQL.
+<div align="center">
+  <a href="mailto:tuemail@dominio.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="email" />
+  </a>
+  <img width="4" />
+  <a href="https://linkedin.com/in/TU_LINKEDIN">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin" />
+  </a>
+  <img width="4" />
+  <a href="https://github.com/Nix0010">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="github" />
+  </a>
+</div>
 
-&nbsp;
+###
 
-## Tecnologías
+<h2 align="center">Proyectos Destacados</h2>
 
-```
-Frontend        React · TypeScript · Tailwind CSS · Vite · Zustand
-Backend         Node.js · Express · tRPC · Zod · JWT · OAuth
-Bases de Datos  PostgreSQL · MySQL · Prisma · Drizzle · PL/pgSQL
-Infraestructura Docker · Git · CI/CD
-```
-
-&nbsp;
-
-## Proyectos
-
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### [ARMRANK](https://github.com/Nix0010/Proyecto-U-ARMRANK)
-Plataforma full-stack para gestión de torneos deportivos. Registro de participantes, categorías por peso, brackets con eliminación simple/doble y round robin, avance automático de ganadores, ranking en tiempo real y exportación a PDF.
-
-`React 19` `Express` `Prisma` `PostgreSQL` `JWT` `OAuth` `Zod`
+<h3 align="center"><a href="https://github.com/Nix0010/Proyecto-U-ARMRANK">⚡ ARMRANK</a></h3>
+<p align="center"><strong>Sistema de Gestión de Torneos</strong></p>
+<p>Plataforma full-stack para torneos deportivos: brackets, rankings, avance automático de ganadores y exportación a PDF.</p>
+<p>
+<img src="https://skillicons.dev/icons?i=react,express,prisma,postgres&theme=dark" height="30" />
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### [ARMPRO](https://github.com/Nix0010/ARMPRO-F)
-Aplicación de entrenamiento con rutinas personalizadas, sistema de gamificación con logros y progreso, marketplace de contenido y base para asistencia con IA. Arquitectura modular con API tipada end-to-end.
-
-`React` `tRPC` `Drizzle` `MySQL` `Vite` `Vitest`
+<h3 align="center"><a href="https://github.com/Nix0010/ARMPRO-F">🏋️ ARMPRO</a></h3>
+<p align="center"><strong>Plataforma de Entrenamiento</strong></p>
+<p>App full-stack con rutinas personalizadas, gamificación, marketplace y base de IA. API tipada end-to-end con tRPC.</p>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mysql,vite&theme=dark" height="30" />
+</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [Seguridad en BD Corporativas](https://github.com/Nix0010/ejercicio_ImplementacionSeguridad_BD)
-Implementación de seguridad empresarial sobre PostgreSQL: roles con mínimo privilegio, vistas seguras para datos sensibles (PII), triggers de auditoría en JSONB y esquema de backup con recuperación PITR.
-
-`PostgreSQL` `PL/pgSQL`
+<h3 align="center"><a href="https://github.com/Nix0010/ejercicio_ImplementacionSeguridad_BD">🔒 Seguridad BD</a></h3>
+<p align="center"><strong>Seguridad en Bases de Datos Corporativas</strong></p>
+<p>Roles con mínimo privilegio, vistas seguras para PII, triggers de auditoría en JSONB y esquema de backup PITR.</p>
+<p>
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="30" />
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### [Sistema Académico](https://github.com/Nix0010/BaseDeDatos)
-Modelo de datos para gestión académica: estudiantes, tareas, horarios, calificaciones y recordatorios. Incluye scripts SQL, documentación completa y diagramas entidad-relación.
-
-`SQL` `PostgreSQL` `DBeaver`
+<h3 align="center"><a href="https://github.com/Nix0010/BaseDeDatos">📊 Sistema Académico</a></h3>
+<p align="center"><strong>Gestión Académica con SQL</strong></p>
+<p>Modelo de datos para estudiantes, tareas, horarios y calificaciones. Scripts SQL, docs completas y diagramas ER.</p>
+<p>
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="30" />
+</p>
 
 </td>
 </tr>
 </table>
 
-&nbsp;
-
-## Estadísticas
+###
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nix0010&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="Stats" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nix0010&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Languages" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Nix0010&locale=en&mode=daily&theme=github-dark-blue&hide_border=true&border_radius=5" height="170" alt="streak graph" />
 </div>
 
-&nbsp;
+###
 
 <div align="center">
-<sub>Disponible para proyectos de desarrollo web, sistemas a medida y consultoría técnica.</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nix0010&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="160" alt="stats" />
+  <img width="10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nix0010&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160" alt="languages" />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nix0010/Nix0010/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nix0010/Nix0010/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Nix0010/Nix0010/output/github-snake-dark.svg" />
+</picture>
+
+###
+
+<div align="center">
+  <sub>Disponible para proyectos de desarrollo web, sistemas a medida y consultoría técnica.</sub>
 </div>
