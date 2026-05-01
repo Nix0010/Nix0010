@@ -93,7 +93,7 @@ disponible:  Para proyectos freelance y trabajo remoto
 <td width="40%" valign="top" align="center">
 
 <br/><br/>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif"/>
 
 </td>
 </tr>
