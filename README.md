@@ -6,7 +6,7 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Construyo+sistemas+web+completos;Bots+de+WhatsApp+con+IA+integrada;Especialista+en+PostgreSQL+%2B+TypeScript;DevOps+con+Google+Cloud+%26+Azure;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Construyo+sistemas+web+completos;Bots+de+WhatsApp+con+IA+integrada;Especialista+en+PostgreSQL+%2B+TypeScript;Integraci%C3%B3n+de+IA+en+Aplicaciones;DevOps+con+Google+Cloud+%26+Azure;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" alt="Typing SVG" />
 </div>
 
 ###
@@ -70,18 +70,19 @@
 ```yaml
 nombre:     Leyder Alvarez
 alias:      Nix0010
-enfoque:    Full-Stack · Database Architecture · DevOps
+enfoque:    Full-Stack · Database Architecture · AI Integration
 stack:
   frontend:  React · TypeScript · Tailwind CSS · Vite
   backend:   Node.js · Express · tRPC · Zod · JWT
   databases: PostgreSQL · MySQL · Prisma · Drizzle · PL/pgSQL
   devops:    Docker · Google Cloud · Azure · Git · CI/CD
+  ai_tools:  OpenAI API · Groq · LLaMA · Integración en Web/Bots
 fortalezas:
   - Arquitectura de bases de datos relacionales
   - APIs typesafe end-to-end con TypeScript
   - Seguridad y auditoría en PostgreSQL
   - Despliegue en la nube (GCP · Azure)
-  - Bots de WhatsApp con IA para negocios
+  - Integración de Inteligencia Artificial en sistemas web y chatbots
 actualmente: Construyendo sistemas escalables y automatizaciones con IA
 disponible:  Para proyectos freelance y trabajo remoto
 ```
