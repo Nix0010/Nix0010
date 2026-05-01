@@ -63,7 +63,9 @@
 
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+<table width="100%" align="center">
+<tr>
+<td width="60%" valign="top">
 
 ### Sobre mí
 
@@ -82,12 +84,20 @@ fortalezas:
   - APIs typesafe end-to-end con TypeScript
   - Seguridad y auditoría en PostgreSQL
   - Despliegue en la nube (GCP · Azure)
-  - Integración de Inteligencia Artificial en sistemas web y chatbots
-actualmente: Construyendo sistemas escalables y automatizaciones con IA
+  - Integración de IA en sistemas web y chatbots
+actualmente: Construyendo sistemas escalables con IA
 disponible:  Para proyectos freelance y trabajo remoto
 ```
 
-<br clear="right"/>
+</td>
+<td width="40%" valign="top" align="center">
+
+<br/><br/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
 
 ###
 
