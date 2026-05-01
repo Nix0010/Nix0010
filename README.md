@@ -69,24 +69,27 @@
 
 ### Sobre mí
 
-```yaml
-nombre:     Leyder Alvarez
-alias:      Nix0010
-enfoque:    Full-Stack · Database Architecture · AI Integration
-stack:
-  frontend:  React · TypeScript · Tailwind CSS · Vite
-  backend:   Node.js · Express · tRPC · Zod · JWT
-  databases: PostgreSQL · MySQL · Prisma · Drizzle · PL/pgSQL
-  devops:    Docker · Google Cloud · Azure · Git · CI/CD
-  ai_tools:  OpenAI API · Groq · LLaMA · Integración en Web/Bots
-fortalezas:
-  - Arquitectura de bases de datos relacionales
-  - APIs typesafe end-to-end con TypeScript
-  - Seguridad y auditoría en PostgreSQL
-  - Despliegue en la nube (GCP · Azure)
-  - Integración de IA en sistemas web y chatbots
-actualmente: Construyendo sistemas escalables con IA
-disponible:  Para proyectos freelance y trabajo remoto
+```typescript
+const perfil = {
+  nombre: "Leyder Alvarez",
+  alias: "Nix0010",
+  enfoque: ["Full-Stack", "Database Architecture", "AI Integration"],
+  stack: {
+    frontend: ["React", "TypeScript", "Tailwind CSS", "Vite"],
+    backend: ["Node.js", "Express", "tRPC", "Zod", "JWT"],
+    databases: ["PostgreSQL", "MySQL", "Prisma", "Drizzle"],
+    devops: ["Docker", "Google Cloud", "Azure", "Git", "CI/CD"],
+    ai_tools: ["OpenAI API", "Groq", "LLaMA", "Integración Web/Bots"]
+  },
+  fortalezas: [
+    "Arquitectura de BDs relacionales (PostgreSQL, PL/pgSQL)",
+    "APIs typesafe end-to-end con TypeScript",
+    "Integración de Inteligencia Artificial en sistemas",
+    "Despliegue en la nube corporativa (GCP, Azure)"
+  ],
+  estadoActual: "Construyendo sistemas escalables con IA 🚀",
+  disponibleParaFreelance: true
+};
 ```
 
 </td>
